@@ -1450,17 +1450,17 @@ next@13.3.0:
     "@next/swc-win32-ia32-msvc" "13.3.0"
     "@next/swc-win32-x64-msvc" "13.3.0"
 
-nextra-theme-blog@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/nextra-theme-blog/-/nextra-theme-blog-2.4.1.tgz#42f70b76e8cc51b56a5567f348f453632cc33436"
-  integrity sha512-3aFLmxa2IbTh35hHUTk46J3F0EFpS45eqJV6VBelOzd7axf4N3edQ8bgm5+S3pTk+rhA+EV945/1qNPr+J08bA==
+nextra-theme-blog@2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/nextra-theme-blog/-/nextra-theme-blog-2.4.2.tgz#2414145640e38b4952a210584cbc66083027272b"
+  integrity sha512-vW+pjomhTVkAR8/nKTIhtmnVO+TFX48hXi/sLp7BAoz+VS/HMq5wT2UU2PLJLhzdfl+qOvyBrkT8gdTI+2n/4w==
   dependencies:
     next-themes "^0.2.1"
 
-nextra@2.4.1:
-  version "2.4.1"
-  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.4.1.tgz#d356b169c0a067c0e9357e7c72ede2eabd7bd706"
-  integrity sha512-QDHBHdtbBMGVAdbkzOV76Z9disoI+BkOCTJjHGVobG1ukhuHHipJLiaxfIouJL1KqFKAX/L6RQBTSJgY4b7HKg==
+nextra@2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.4.2.tgz#f9f130f1b47727ef661fa2ad63033e9d7c9960be"
+  integrity sha512-FH2BTCF8q3aBtc1w1pj1N6LMFyiMP5KL+w6Ph4s2M5FwTtv150dSNWWw5Hy2GgxLTi391B/CRkO31OCjp9trkA==
   dependencies:
     "@mdx-js/mdx" "^2.3.0"
     "@mdx-js/react" "^2.3.0"
