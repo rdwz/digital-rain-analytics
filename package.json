@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "gray-matter": "4.0.3",
-    "next": "13.3.2",
+    "next": "13.3.4",
     "nextra": "2.4.2",
     "nextra-theme-blog": "2.4.2",
     "react": "18.2.0",
