@@ -1450,17 +1450,17 @@ next@13.3.4:
     "@next/swc-win32-ia32-msvc" "13.3.4"
     "@next/swc-win32-x64-msvc" "13.3.4"
 
-nextra-theme-blog@2.4.2:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/nextra-theme-blog/-/nextra-theme-blog-2.4.2.tgz#2414145640e38b4952a210584cbc66083027272b"
-  integrity sha512-vW+pjomhTVkAR8/nKTIhtmnVO+TFX48hXi/sLp7BAoz+VS/HMq5wT2UU2PLJLhzdfl+qOvyBrkT8gdTI+2n/4w==
+nextra-theme-blog@2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/nextra-theme-blog/-/nextra-theme-blog-2.5.0.tgz#2e1f5a503d4cdcd15eea6ed08aa7e1364d433899"
+  integrity sha512-KITGLIVl3DzGcuYIRyzrnnD28IEtHCcRK0hPuivr/NS+S2XmcVztuNKraRlZp8R2u1iV+h1r6QjJFywHr4C7fQ==
   dependencies:
     next-themes "^0.2.1"
 
-nextra@2.4.2:
-  version "2.4.2"
-  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.4.2.tgz#f9f130f1b47727ef661fa2ad63033e9d7c9960be"
-  integrity sha512-FH2BTCF8q3aBtc1w1pj1N6LMFyiMP5KL+w6Ph4s2M5FwTtv150dSNWWw5Hy2GgxLTi391B/CRkO31OCjp9trkA==
+nextra@2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.5.0.tgz#0b9ca9a70e4a26390ed5aab7b5f3f3ae290aba51"
+  integrity sha512-YvknuUvV2fdFY3F3gsxNFA2lwDWg3KHEAiyumUxZKOnW8+yTwocXGFccD76Py9fYxcmUL9ARo+PEusnXlWmLeQ==
   dependencies:
     "@mdx-js/mdx" "^2.3.0"
     "@mdx-js/react" "^2.3.0"
@@ -1477,7 +1477,7 @@ nextra@2.4.2:
     remark-gfm "^3.0.1"
     remark-math "^5.1.1"
     remark-reading-time "^2.0.1"
-    shiki "^0.14.0"
+    shiki "^0.14.2"
     slash "^3.0.0"
     title "^3.5.3"
     unist-util-remove "^3.1.1"
@@ -1706,7 +1706,7 @@ shebang-regex@^1.0.0:
   resolved "https://registry.yarnpkg.com/shebang-regex/-/shebang-regex-1.0.0.tgz#da42f49740c0b42db2ca9728571cb190c98efea3"
   integrity sha512-wpoSFAxys6b2a2wHZ1XpDSgD7N9iVjg29Ph9uV/uaP9Ex/KXlkTZTeddxDPSYQpgvzKLGJke2UU0AzoGCjNIvQ==
 
-shiki@^0.14.0:
+shiki@^0.14.2:
   version "0.14.2"
   resolved "https://registry.yarnpkg.com/shiki/-/shiki-0.14.2.tgz#d51440800b701392b31ce2336036058e338247a1"
   integrity sha512-ltSZlSLOuSY0M0Y75KA+ieRaZ0Trf5Wl3gutE7jzLuIcWxLp5i/uEnLoQWNvgKXQ5OMpGkJnVMRLAuzjc0LJ2A==
