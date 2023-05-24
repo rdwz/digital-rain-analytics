@@ -536,7 +536,7 @@ github-slugger@^2.0.0:
   resolved "https://registry.yarnpkg.com/github-slugger/-/github-slugger-2.0.0.tgz#52cf2f9279a21eb6c59dd385b410f0c0adda8f1a"
   integrity sha512-IaOQ9puYtjrkq7Y0Ygl9KDZnrf/aiUJYUpVf89y8kyaxbRG7Y1SrX/jaumrv81vc61+kiMempujsM3Yw7w5qcw==
 
-graceful-fs@^4.2.10:
+graceful-fs@^4.2.11:
   version "4.2.11"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.11.tgz#4183e4e8bf08bb6e05bbb2f7d2e0c8f712ca40e3"
   integrity sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==
@@ -764,7 +764,7 @@ jsonc-parser@^3.2.0:
   resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-3.2.0.tgz#31ff3f4c2b9793f89c67212627c51c6394f88e76"
   integrity sha512-gfFQZrcTc8CnKXp6Y4/CBT3fTc0OVuDofpre4aEeEpSBPV5X5v4+Vmx+8snU7RLPrNHPKSgLxGo9YuQzz20o+w==
 
-katex@^0.16.0, katex@^0.16.4:
+katex@^0.16.0, katex@^0.16.7:
   version "0.16.7"
   resolved "https://registry.yarnpkg.com/katex/-/katex-0.16.7.tgz#36be1d4ed96e8afdc5863407e70f8fb250aeafd5"
   integrity sha512-Xk9C6oGKRwJTfqfIbtr0Kes9OSv6IFsuhFGc7tW4urlpMJtuh+7YhzU6YEG9n8gmWKcMAFzkp7nr+r69kV0zrA==
@@ -1457,30 +1457,30 @@ next@13.4.3:
     "@next/swc-win32-ia32-msvc" "13.4.3"
     "@next/swc-win32-x64-msvc" "13.4.3"
 
-nextra-theme-blog@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/nextra-theme-blog/-/nextra-theme-blog-2.6.0.tgz#15bd363ca22b1f5e57db934ea43ef105831358f9"
-  integrity sha512-ek2/TyeDfWxQ5rzD8hztYc512Ier/r/xLaI0lugxMnTIDCgHe4Mf0AhxgCmPPOJwXxju36pek0kE+8MQ1E5mtw==
+nextra-theme-blog@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/nextra-theme-blog/-/nextra-theme-blog-2.6.1.tgz#c48ab4caaaf2213c421c5295a331fe3c293d3089"
+  integrity sha512-8juPIlO67pRy/MZLswFgNbnqDgHxAYjknz1TAUwnqQEDHfVWED2bFfByECFB3a2Ytud13FQKuCO5xTmK+2vDNQ==
   dependencies:
     next-themes "^0.2.1"
 
-nextra@2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.6.0.tgz#ca5c429a30fbf0b2ed0d8988ce454c056797cc8a"
-  integrity sha512-yLYcjQWBfzlUUuf7q8M5DXIpNId19RB5SyrpjcNB/KvZ1S2CQpf5cXmpRzKGl015NI3MRAX+z7pMR2qiU3HtwA==
+nextra@2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/nextra/-/nextra-2.6.1.tgz#0d950d21515012eff62f317b1a7c73b00b9aa114"
+  integrity sha512-5NN+aTFzW17/42AWp3qAvBTlgZvSQVpHOUb2MdHI6gnslpjik6z7DS1gZJ9zJ/I8veVxdLhdE70TfksAZ9tgxQ==
   dependencies:
     "@mdx-js/mdx" "^2.3.0"
     "@mdx-js/react" "^2.3.0"
     "@napi-rs/simple-git" "^0.1.8"
     clsx "^1.2.1"
     github-slugger "^2.0.0"
-    graceful-fs "^4.2.10"
+    graceful-fs "^4.2.11"
     gray-matter "^4.0.3"
-    katex "^0.16.4"
+    katex "^0.16.7"
     lodash.get "^4.4.2"
     next-mdx-remote "^4.2.1"
     p-limit "^3.1.0"
-    rehype-katex "^6.0.2"
+    rehype-katex "^6.0.3"
     rehype-pretty-code "0.9.4"
     remark-gfm "^3.0.1"
     remark-math "^5.1.1"
@@ -1595,7 +1595,7 @@ reading-time@^1.3.0:
   resolved "https://registry.yarnpkg.com/reading-time/-/reading-time-1.5.0.tgz#d2a7f1b6057cb2e169beaf87113cc3411b5bc5bb"
   integrity sha512-onYyVhBNr4CmAxFsKS7bz+uTLRakypIe4R+5A824vBSkQy/hB3fZepoVEf8OVAxzLvK+H/jm9TzpI3ETSm64Kg==
 
-rehype-katex@^6.0.2:
+rehype-katex@^6.0.3:
   version "6.0.3"
   resolved "https://registry.yarnpkg.com/rehype-katex/-/rehype-katex-6.0.3.tgz#83e5b929b0967978e9491c02117f55be3594d7e1"
   integrity sha512-ByZlRwRUcWegNbF70CVRm2h/7xy7jQ3R9LaY4VVSvjnoVWwWVhNL60DiZsBpC5tSzYQOCvDbzncIpIjPZWodZA==
