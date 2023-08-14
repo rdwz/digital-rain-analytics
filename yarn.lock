@@ -2,7 +2,7 @@
 # yarn lockfile v1
 
 
-"@braintree/sanitize-url@^6.0.2":
+"@braintree/sanitize-url@^6.0.1":
   version "6.0.4"
   resolved "https://registry.yarnpkg.com/@braintree/sanitize-url/-/sanitize-url-6.0.4.tgz#923ca57e173c6b232bbbb07347b1be982f03e783"
   integrity sha512-s3jaWicZd0pkP0jf5ysyHUI/RE7MHos6qlToFcGWXVp+ykHOy77OUMrfbgJ9it2C5bow7OIQwYYaHjk9XlBQ2A==
@@ -263,9 +263,9 @@
     "@types/unist" "^2"
 
 "@types/mdx@^2.0.0":
-  version "2.0.5"
-  resolved "https://registry.yarnpkg.com/@types/mdx/-/mdx-2.0.5.tgz#9a85a8f70c7c4d9e695a21d5ae5c93645eda64b1"
-  integrity sha512-76CqzuD6Q7LC+AtbPqrvD9AqsN0k8bsYo2bM2J8pmNldP1aIPAbzUQ7QbobyXL4eLr1wK5x8FZFe8eF/ubRuBg==
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/@types/mdx/-/mdx-2.0.6.tgz#d03e0cc6f7e6627b296f4ef49049678316e8ee23"
+  integrity sha512-sVcwEG10aFU2KcM7cIA0M410UPv/DesOPyG8zMVk0QUDexHA3lYmGucpEpZ2dtWWhi2ip3CG+5g/iH0PwoW4Fw==
 
 "@types/ms@*":
   version "0.7.31"
@@ -278,9 +278,9 @@
   integrity sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==
 
 "@types/react@>=16":
-  version "18.2.18"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.18.tgz#c8b233919eef1bdc294f6f34b37f9727ad677516"
-  integrity sha512-da4NTSeBv/P34xoZPhtcLkmZuJ+oYaCxHmyHzwaDQo9RQPBeXV+06gEk2FpqEcsX9XrnNLvRpVh6bdavDSjtiQ==
+  version "18.2.20"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.20.tgz#1605557a83df5c8a2cc4eeb743b3dfc0eb6aaeb2"
+  integrity sha512-WKNtmsLWJM/3D5mG4U84cysVY31ivmyw85dE84fOCk5Hx78wezB/XEjVPWl2JTZ5FkEeaTJf+VgUAUn3PE7Isw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -363,9 +363,9 @@ busboy@1.6.0:
     streamsearch "^1.1.0"
 
 caniuse-lite@^1.0.30001406:
-  version "1.0.30001519"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001519.tgz#3e7b8b8a7077e78b0eb054d69e6edf5c7df35601"
-  integrity sha512-0QHgqR+Jv4bxHMp8kZ1Kn8CH55OikjKJ6JmKkZYP1F3D7w+lnFXF70nG5eNfsZS89jadi5Ywy5UCSKLAglIRkg==
+  version "1.0.30001520"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001520.tgz#62e2b7a1c7b35269594cf296a80bdf8cb9565006"
+  integrity sha512-tahF5O9EiiTzwTUqAeFjIZbn4Dnqxzz7ktrgGlMYNLH43Ul26IgTMH/zvL3DG0lZxBYnlT04axvInszUsZULdA==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -811,7 +811,7 @@ diff@^5.0.0:
   resolved "https://registry.yarnpkg.com/diff/-/diff-5.1.0.tgz#bc52d298c5ea8df9194800224445ed43ffc87e40"
   integrity sha512-D+mk+qE8VC/PAUrlAU34N+VfXev0ghe5ywmpqrawphmVZc1bEfn56uo9qpyGp1p4xpzOHkSW4ztBd6L7Xx4ACw==
 
-dompurify@3.0.5:
+dompurify@^3.0.5:
   version "3.0.5"
   resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.0.5.tgz#eb3d9cfa10037b6e73f32c586682c4b2ab01fbed"
   integrity sha512-F9e6wPGtY+8KNMRAVfxeCOHU0/NPWMSENNq4pQctuXRqqdEPW7q3CrLbR5Nse044WwacyjHGOMlvNsBe1y6z9A==
@@ -1459,11 +1459,11 @@ mdast-util-to-string@^3.0.0, mdast-util-to-string@^3.1.0:
     "@types/mdast" "^3.0.0"
 
 mermaid@^10.2.2:
-  version "10.3.0"
-  resolved "https://registry.yarnpkg.com/mermaid/-/mermaid-10.3.0.tgz#45c1399fc8b95818822cbbd7b03a6093d15685a9"
-  integrity sha512-H5quxuQjwXC8M1WuuzhAp2TdqGg74t5skfDBrNKJ7dt3z8Wprl5S6h9VJsRhoBUTSs1TMtHEdplLhCqXleZZLw==
+  version "10.3.1"
+  resolved "https://registry.yarnpkg.com/mermaid/-/mermaid-10.3.1.tgz#2f3c7e9f6bd7a8da2bef71cce2a542c8eba2a62e"
+  integrity sha512-hkenh7WkuRWPcob3oJtrN3W+yzrrIYuWF1OIfk/d0xGE8UWlvDhfexaHmDwwe8DKQgqMLI8DWEPwGprxkumjuw==
   dependencies:
-    "@braintree/sanitize-url" "^6.0.2"
+    "@braintree/sanitize-url" "^6.0.1"
     "@types/d3-scale" "^4.0.3"
     "@types/d3-scale-chromatic" "^3.0.0"
     cytoscape "^3.23.0"
@@ -1473,7 +1473,7 @@ mermaid@^10.2.2:
     d3-sankey "^0.12.3"
     dagre-d3-es "7.0.10"
     dayjs "^1.11.7"
-    dompurify "3.0.5"
+    dompurify "^3.0.5"
     elkjs "^0.8.2"
     khroma "^2.0.0"
     lodash-es "^4.17.21"
