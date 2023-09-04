@@ -311,9 +311,9 @@
   integrity sha512-MFETx3tbTjE7Uk6vvnWINA/1iJ7LuMdO4fcq8UfF0pRbj01aGLduVvQcRyswuACJdpnHgg8E3rQLhaRdNEJS0w==
 
 "@types/unist@^2", "@types/unist@^2.0.0":
-  version "2.0.7"
-  resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.7.tgz#5b06ad6894b236a1d2bd6b2f07850ca5c59cf4d6"
-  integrity sha512-cputDpIbFgLUaGQn6Vqg3/YsJwxUwHLO13v3i5ouxT4lat0khip9AEWxtERujXV9wxIB1EyF97BSJFt6vpdI8g==
+  version "2.0.8"
+  resolved "https://registry.yarnpkg.com/@types/unist/-/unist-2.0.8.tgz#bb197b9639aa1a04cf464a617fe800cccd92ad5c"
+  integrity sha512-d0XxK3YTObnWVp6rZuev3c49+j4Lo8g4L1ZRm9z5L0xpoZycUPshHgczK5gsUMaZOstjVYYi09p5gYvUtfChYw==
 
 "@ungap/structured-clone@^1.0.0":
   version "1.2.0"
@@ -382,9 +382,9 @@ busboy@1.6.0:
     streamsearch "^1.1.0"
 
 caniuse-lite@^1.0.30001406:
-  version "1.0.30001524"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001524.tgz#1e14bce4f43c41a7deaeb5ebfe86664fe8dadb80"
-  integrity sha512-Jj917pJtYg9HSJBF95HVX3Cdr89JUyLT4IZ8SvM5aDRni95swKgYi3TgYLH5hnGfPE/U1dg6IfZ50UsIlLkwSA==
+  version "1.0.30001525"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001525.tgz#d2e8fdec6116ffa36284ca2c33ef6d53612fe1c8"
+  integrity sha512-/3z+wB4icFt3r0USMwxujAqRvaD/B7rvGTsKhbhSQErVrJvkZCLhgNLJxU8MevahQVH6hCU9FsHdNUFbiwmE7Q==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -1067,11 +1067,12 @@ hast-util-parse-selector@^4.0.0:
     "@types/hast" "^3.0.0"
 
 hast-util-raw@^9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/hast-util-raw/-/hast-util-raw-9.0.0.tgz#3fd8105cd47db075f7d337867a667a2f275c0114"
-  integrity sha512-HRjOZeaRAOM66qU/zmJ1fI/dKQovAFi9Fpq0bBW/6P/ZDdyQnFyu/ZMPk+CXmUEgE0AaqP1HNgTdg+N5JyvNeA==
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/hast-util-raw/-/hast-util-raw-9.0.1.tgz#2ba8510e4ed2a1e541cde2a4ebb5c38ab4c82c2d"
+  integrity sha512-5m1gmba658Q+lO5uqL5YNGQWeh1MYWZbZmWrM5lncdcuiXuo5E2HT/CIOp0rLF8ksfSwiCVJ3twlgVRyTGThGA==
   dependencies:
     "@types/hast" "^3.0.0"
+    "@types/unist" "^3.0.0"
     "@ungap/structured-clone" "^1.0.0"
     hast-util-from-parse5 "^8.0.0"
     hast-util-to-parse5 "^8.0.0"
@@ -1532,9 +1533,9 @@ mdast-util-to-hast@^12.1.0:
     unist-util-visit "^4.0.0"
 
 mdast-util-to-hast@^13.0.0:
-  version "13.0.1"
-  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-13.0.1.tgz#4ad86d1c985d75db5f99b5b09d43b0bd4620c0b4"
-  integrity sha512-ka3PknAg27U8ay/v8p+uYcN5bdwjqoAtPF78neohOLaJKhwnuQsp7MAJM3LnMgQ/LABDbK9jwhkVZp7uCLkOMQ==
+  version "13.0.2"
+  resolved "https://registry.yarnpkg.com/mdast-util-to-hast/-/mdast-util-to-hast-13.0.2.tgz#74c0a9f014bb2340cae6118f6fccd75467792be7"
+  integrity sha512-U5I+500EOOw9e3ZrclN3Is3fRpw8c19SMyNZlZ2IS+7vLsNzb2Om11VpIVOR+/0137GhZsFEF6YiKD5+0Hr2Og==
   dependencies:
     "@types/hast" "^3.0.0"
     "@types/mdast" "^4.0.0"
@@ -2193,9 +2194,9 @@ postcss@8.4.14:
     source-map-js "^1.0.2"
 
 property-information@^6.0.0:
-  version "6.2.0"
-  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.2.0.tgz#b74f522c31c097b5149e3c3cb8d7f3defd986a1d"
-  integrity sha512-kma4U7AFCTwpqq5twzC1YVIDXSqg6qQK6JN0smOw8fgRy1OkMi0CYSzFmsy6dnqSenamAtj0CyXMUJ1Mf6oROg==
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.3.0.tgz#ba4a06ec6b4e1e90577df9931286953cdf4282c3"
+  integrity sha512-gVNZ74nqhRMiIUYWGQdosYetaKc83x8oT41a0LlV3AAFCAZwCpg4vmGkq8t34+cUhp3cnM4XDiU/7xlgK7HGrg==
 
 pseudomap@^1.0.2:
   version "1.0.2"
@@ -2367,9 +2368,9 @@ shebang-regex@^1.0.0:
   integrity sha512-wpoSFAxys6b2a2wHZ1XpDSgD7N9iVjg29Ph9uV/uaP9Ex/KXlkTZTeddxDPSYQpgvzKLGJke2UU0AzoGCjNIvQ==
 
 shiki@^0.14.3:
-  version "0.14.3"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-0.14.3.tgz#d1a93c463942bdafb9866d74d619a4347d0bbf64"
-  integrity sha512-U3S/a+b0KS+UkTyMjoNojvTgrBHjgp7L6ovhFVZsXmBGnVdQ4K4U9oK0z63w538S91ATngv1vXigHCSWOwnr+g==
+  version "0.14.4"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-0.14.4.tgz#2454969b466a5f75067d0f2fa0d7426d32881b20"
+  integrity sha512-IXCRip2IQzKwxArNNq1S+On4KPML3Yyn8Zzs/xRgcgOWIr8ntIK3IKzjFPfjy/7kt9ZMjc+FItfqHRBg8b6tNQ==
   dependencies:
     ansi-sequence-parser "^1.1.0"
     jsonc-parser "^3.2.0"
