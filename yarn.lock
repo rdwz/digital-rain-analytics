@@ -229,9 +229,9 @@
     "@types/estree" "*"
 
 "@types/estree@*", "@types/estree@^1.0.0":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.3.tgz#2be19e759a3dd18c79f9f436bd7363556c1a73dd"
-  integrity sha512-CS2rOaoQ/eAgAfcTfq6amKG7bsN+EMcgGY4FAFQdvSj2y1ixvOZTUA9mOtCai7E1SYu283XNw7urKK30nP3wkQ==
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@types/estree/-/estree-1.0.4.tgz#d9748f5742171b26218516cf1828b8eafaf8a9fa"
+  integrity sha512-2JwWnHK9H+wUZNorf2Zr6ves96WHoWDJIftkcxPKsS7Djta6Zu519LarhRNljPXkpsZR2ZMwNCPeW7omW07BJw==
 
 "@types/hast@^2.0.0":
   version "2.3.7"
@@ -287,9 +287,9 @@
   integrity sha512-n1yyPsugYNSmHgxDFjicaI2+gCNjsBck8UX9kuofAKlc0h1bL+20oSF72KeNaW2DUlesbEVCFgyV2dPGTiY42g==
 
 "@types/react@>=16":
-  version "18.2.33"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.33.tgz#055356243dc4350a9ee6c6a2c07c5cae12e38877"
-  integrity sha512-v+I7S+hu3PIBoVkKGpSYYpiBT1ijqEzWpzQD62/jm4K74hPpSP7FF9BnKG6+fg2+62weJYkkBWDJlZt5JO/9hg==
+  version "18.2.35"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.35.tgz#bacdc6d139a4d6d47e5186e1a96952c65e1f3792"
+  integrity sha512-LG3xpFZ++rTndV+/XFyX5vUP7NI9yxyk+MQvBDq+CVs8I9DLSc3Ymwb1Vmw5YDoeNeHN4PDZa3HylMKJYT9PNQ==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -377,9 +377,9 @@ busboy@1.6.0:
     streamsearch "^1.1.0"
 
 caniuse-lite@^1.0.30001406:
-  version "1.0.30001558"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001558.tgz#d2c6e21fdbfe83817f70feab902421a19b7983ee"
-  integrity sha512-/Et7DwLqpjS47JPEcz6VnxU9PwcIdVi0ciLXRWBQdj1XFye68pSQYpV0QtPTfUKWuOaEig+/Vez2l74eDc1tPQ==
+  version "1.0.30001561"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001561.tgz#752f21f56f96f1b1a52e97aae98c57c562d5d9da"
+  integrity sha512-NTt0DNoKe958Q0BE0j0c1V9jbUzhBxHIEJy7asmGrpE0yG63KTV7PLHPnK2E1O9RsQrQ081I3NLuXGS6zht3cw==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -503,9 +503,9 @@ cytoscape-fcose@^2.1.0:
     cose-base "^2.2.0"
 
 cytoscape@^3.23.0:
-  version "3.26.0"
-  resolved "https://registry.yarnpkg.com/cytoscape/-/cytoscape-3.26.0.tgz#b4c6961445fd51e1fd3cca83c3ffe924d9a8abc9"
-  integrity sha512-IV+crL+KBcrCnVVUCZW+zRRRFUZQcrtdOPXki+o4CFUWLdAEYvuZLcBSJC9EBK++suamERKzeY7roq2hdovV3w==
+  version "3.27.0"
+  resolved "https://registry.yarnpkg.com/cytoscape/-/cytoscape-3.27.0.tgz#5141cd694570807c91075b609181bce102e0bb88"
+  integrity sha512-pPZJilfX9BxESwujODz5pydeGi+FBrXq1rcaB1mfhFXXFJ9GjE6CNndAk+8jPzoXGD+16LtSS4xlYEIUiW4Abg==
   dependencies:
     heap "^0.2.6"
     lodash "^4.17.21"
@@ -2158,9 +2158,9 @@ postcss@8.4.31:
     source-map-js "^1.0.2"
 
 property-information@^6.0.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.3.0.tgz#ba4a06ec6b4e1e90577df9931286953cdf4282c3"
-  integrity sha512-gVNZ74nqhRMiIUYWGQdosYetaKc83x8oT41a0LlV3AAFCAZwCpg4vmGkq8t34+cUhp3cnM4XDiU/7xlgK7HGrg==
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.4.0.tgz#6bc4c618b0c2d68b3bb8b552cbb97f8e300a0f82"
+  integrity sha512-9t5qARVofg2xQqKtytzt+lZ4d1Qvj8t5B8fEwXK6qOfgRLgH/b13QlgEyDh033NOS31nXeFbYv7CLUDG1CeifQ==
 
 pseudomap@^1.0.2:
   version "1.0.2"
