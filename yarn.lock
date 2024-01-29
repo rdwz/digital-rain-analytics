@@ -46,77 +46,77 @@
     "@types/mdx" "^2.0.0"
     "@types/react" ">=16"
 
-"@napi-rs/simple-git-android-arm-eabi@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-android-arm-eabi/-/simple-git-android-arm-eabi-0.1.9.tgz#0326fbc4ffafb678bda3474018e2a24a8d2a21b6"
-  integrity sha512-9D4JnfePMpgL4pg9aMUX7/TIWEUQ+Tgx8n3Pf8TNCMGjUbImJyYsDSLJzbcv9wH7srgn4GRjSizXFJHAPjzEug==
+"@napi-rs/simple-git-android-arm-eabi@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-android-arm-eabi/-/simple-git-android-arm-eabi-0.1.11.tgz#287eddb7d849dddfc513547f5ad3400a90ecba33"
+  integrity sha512-wt4Wu9MxvKzEqT4iwodFs7Nrc31K73gR5hM7VnlO6iLELmUQZ5JVJkYoFWgzLQWtzIC48W2+zFMbBgY6+F2rZg==
 
-"@napi-rs/simple-git-android-arm64@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-android-arm64/-/simple-git-android-arm64-0.1.9.tgz#4f2c3c3c2c8b6e82999b94dd771ab40c6a9511a4"
-  integrity sha512-Krilsw0gPrrASZzudNEl9pdLuNbhoTK0j7pUbfB8FRifpPdFB/zouwuEm0aSnsDXN4ftGrmGG82kuiR/2MeoPg==
+"@napi-rs/simple-git-android-arm64@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-android-arm64/-/simple-git-android-arm64-0.1.11.tgz#16bdedd288dfc42f09d1876979172769c9d70991"
+  integrity sha512-5/Aj6N44CxwhV3TZWRZ4vGqFj4wb2/a2gwvUZJo9Dwik9Spls7As8LaLe7pOptiGPH0GRP3H5kTT7I6twHNgqw==
 
-"@napi-rs/simple-git-darwin-arm64@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-darwin-arm64/-/simple-git-darwin-arm64-0.1.9.tgz#cea5a57db6a8ee17dc6a368d98b5d04766ddd2cc"
-  integrity sha512-H/F09nDgYjv4gcFrZBgdTKkZEepqt0KLYcCJuUADuxkKupmjLdecMhypXLk13AzvLW4UQI7NlLTLDXUFLyr2BA==
+"@napi-rs/simple-git-darwin-arm64@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-darwin-arm64/-/simple-git-darwin-arm64-0.1.11.tgz#b0d48de2af133625e8655e1ff1a9543da80aae06"
+  integrity sha512-vdVsJUNcRsGVu0hBmLZdxxgwIbJA/Ias8NKWze8MZkZ3VyBwhg0uAzFgESEL3/USAgeCCHjF3uwVki8E+iPq1w==
 
-"@napi-rs/simple-git-darwin-x64@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-darwin-x64/-/simple-git-darwin-x64-0.1.9.tgz#4106471b4edd2e9876cbd68951855c9a51debf06"
-  integrity sha512-jBR2xS9nVPqmHv0TWz874W0m/d453MGrMeLjB+boK5IPPLhg3AWIZj0aN9jy2Je1BGVAa0w3INIQJtBBeB6kFA==
+"@napi-rs/simple-git-darwin-x64@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-darwin-x64/-/simple-git-darwin-x64-0.1.11.tgz#88bf505c9d846578aae4612933e05e1bc3c9f1b6"
+  integrity sha512-ufVuZxyJ3LpApk3V101X9qYNX91fnQ4isulz9lWjg90U7Xz0Cav4J3yyFZy6B/cJpYxuiy49R8wV1xDtTeGThA==
 
-"@napi-rs/simple-git-linux-arm-gnueabihf@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm-gnueabihf/-/simple-git-linux-arm-gnueabihf-0.1.9.tgz#823ae5f84808b193f3bb0b6491c947ad13a78da8"
-  integrity sha512-3n0+VpO4YfZxndZ0sCvsHIvsazd+JmbSjrlTRBCnJeAU1/sfos3skNZtKGZksZhjvd+3o+/GFM8L7Xnv01yggA==
+"@napi-rs/simple-git-linux-arm-gnueabihf@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm-gnueabihf/-/simple-git-linux-arm-gnueabihf-0.1.11.tgz#b7ba99101e1ccb8bcb1c0fe6090ecb074833c990"
+  integrity sha512-rFafW0Qc/j5we2ghUecB7mFzGcNDtJ5lTiB4I7kffNeL8pEi6Yi7kST8hylswcCowia65d45xsyeNp1mFlFwcg==
 
-"@napi-rs/simple-git-linux-arm64-gnu@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm64-gnu/-/simple-git-linux-arm64-gnu-0.1.9.tgz#9489634bf30c5acddcf18d2275e1927447753d40"
-  integrity sha512-lIzf0KHU2SKC12vMrWwCtysG2Sdt31VHRPMUiz9lD9t3xwVn8qhFSTn5yDkTeG3rgX6o0p5EKalfQN5BXsJq2w==
+"@napi-rs/simple-git-linux-arm64-gnu@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm64-gnu/-/simple-git-linux-arm64-gnu-0.1.11.tgz#6271eb566a395474f5986fb700c3cc5d5fdea769"
+  integrity sha512-HZ4yaqpj/FQ3V9qNQrTGhtXb7pLAARXeRJrwoaGfz3eZ069y2bHReFcNR//5bsVhZ18JaS9EV47F8WjDxtpI5g==
 
-"@napi-rs/simple-git-linux-arm64-musl@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm64-musl/-/simple-git-linux-arm64-musl-0.1.9.tgz#ba1ffae12974539810552c0f3b966298aae3a26d"
-  integrity sha512-KQozUoNXrxrB8k741ncWXSiMbjl1AGBGfZV21PANzUM8wH4Yem2bg3kfglYS/QIx3udspsT35I9abu49n7D1/w==
+"@napi-rs/simple-git-linux-arm64-musl@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm64-musl/-/simple-git-linux-arm64-musl-0.1.11.tgz#b16e45c1b5a3efc1a71a0ba03f2c4b58b2ed7eca"
+  integrity sha512-b39lJiC3n2+Y6Exjx6qwHoBF++D3k2hN4mZZkvQCFSdLXJ2xtalCatSRWW3pt+mHOHMOgbGektL5v5BYq52hxw==
 
-"@napi-rs/simple-git-linux-x64-gnu@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-x64-gnu/-/simple-git-linux-x64-gnu-0.1.9.tgz#e18cd9059db7313cc2a9bbdc2535b6cac5e80689"
-  integrity sha512-O/Niui5mnHPcK3iYC3ui8wgERtJWsQ3Y74W/09t0bL/3dgzGMl4oQt0qTj9dWCsnoGsIEYHPzwCBp/2vqYp/pw==
+"@napi-rs/simple-git-linux-x64-gnu@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-x64-gnu/-/simple-git-linux-x64-gnu-0.1.11.tgz#6ed11af497ce78da7151f73cb6834846d606ecad"
+  integrity sha512-9EPFvY7PZg+oqWi6Jft5WgSsQtvy9Ey1g4NG+LG8y1RbvaNKthxKbR5zgx196pnFVdcLtsuIdOv/OaQlbcTXkw==
 
-"@napi-rs/simple-git-linux-x64-musl@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-x64-musl/-/simple-git-linux-x64-musl-0.1.9.tgz#456fba6dd186c25d588390ab42db95ba327028fb"
-  integrity sha512-L9n+e8Wn3hKr3RsIdY8GaB+ry4xZ4BaGwyKExgoB8nDGQuRUY9oP6p0WA4hWfJvJnU1H6hvo36a5UFPReyBO7A==
+"@napi-rs/simple-git-linux-x64-musl@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-x64-musl/-/simple-git-linux-x64-musl-0.1.11.tgz#0f3da711234035ac7bc296dc34f6dcaa71d60fb0"
+  integrity sha512-doIt1lPYIGL3UthlEQjdM9s1Wv0v8bz8LVAgbzJMS+UpVZzArwLWkanAJCy1HjgMTUMiE3AVJqACKIF3EfW/TQ==
 
-"@napi-rs/simple-git-win32-arm64-msvc@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-win32-arm64-msvc/-/simple-git-win32-arm64-msvc-0.1.9.tgz#0f1a7048cf891f968ee71138548ccad350dea685"
-  integrity sha512-Z6Ja/SZK+lMvRWaxj7wjnvSbAsGrH006sqZo8P8nxKUdZfkVvoCaAWr1r0cfkk2Z3aijLLtD+vKeXGlUPH6gGQ==
+"@napi-rs/simple-git-win32-arm64-msvc@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-win32-arm64-msvc/-/simple-git-win32-arm64-msvc-0.1.11.tgz#fffa21974907f5b35dbc9c2c607820a88a43b5b6"
+  integrity sha512-TK3Uvj3Q72ebxfxDT/eLFt8sxCNHo20QMvqJ5BHt4zP1Y9Fl1DXSPRUKLBIhJd0nPcI45ZOMRiZyoT8joxAC9g==
 
-"@napi-rs/simple-git-win32-x64-msvc@0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-win32-x64-msvc/-/simple-git-win32-x64-msvc-0.1.9.tgz#75a5d9c3f41b44221e520824e51befa2dde19688"
-  integrity sha512-VAZj1UvC+R2MjKOD3I/Y7dmQlHWAYy4omhReQJRpbCf+oGCBi9CWiIduGqeYEq723nLIKdxP7XjaO0wl1NnUww==
+"@napi-rs/simple-git-win32-x64-msvc@0.1.11":
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-win32-x64-msvc/-/simple-git-win32-x64-msvc-0.1.11.tgz#777a14e3689940aac67cfafbb9667f4ad24a821d"
+  integrity sha512-XOgP6kFDXGmB2KCXFQEsCq70n/Do2h7W9o7qZu8APAD+Sc8JGKz4hKG7PKY2ot924v9nIoKSYbHnupnhXSoXkg==
 
 "@napi-rs/simple-git@^0.1.9":
-  version "0.1.9"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git/-/simple-git-0.1.9.tgz#ea730d6202010acae7bb9057d79681424c41fd12"
-  integrity sha512-qKzDS0+VjMvVyU28px+C6zlD1HKy83NIdYzfMQWa/g/V1iG/Ic8uwrS2ihHfm7mp7X0PPrmINLiTTi6ieUIKfw==
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git/-/simple-git-0.1.11.tgz#f436e7b0544379c4398803c1416e75854768ba77"
+  integrity sha512-z14cPCBrtDKKVJ3q4GS5gmXEithGUAt+U8sICgA9i3UFdxJKD4H5rCnO7BVC3htdE9g6OR2w2IcHAL56AjpFbg==
   optionalDependencies:
-    "@napi-rs/simple-git-android-arm-eabi" "0.1.9"
-    "@napi-rs/simple-git-android-arm64" "0.1.9"
-    "@napi-rs/simple-git-darwin-arm64" "0.1.9"
-    "@napi-rs/simple-git-darwin-x64" "0.1.9"
-    "@napi-rs/simple-git-linux-arm-gnueabihf" "0.1.9"
-    "@napi-rs/simple-git-linux-arm64-gnu" "0.1.9"
-    "@napi-rs/simple-git-linux-arm64-musl" "0.1.9"
-    "@napi-rs/simple-git-linux-x64-gnu" "0.1.9"
-    "@napi-rs/simple-git-linux-x64-musl" "0.1.9"
-    "@napi-rs/simple-git-win32-arm64-msvc" "0.1.9"
-    "@napi-rs/simple-git-win32-x64-msvc" "0.1.9"
+    "@napi-rs/simple-git-android-arm-eabi" "0.1.11"
+    "@napi-rs/simple-git-android-arm64" "0.1.11"
+    "@napi-rs/simple-git-darwin-arm64" "0.1.11"
+    "@napi-rs/simple-git-darwin-x64" "0.1.11"
+    "@napi-rs/simple-git-linux-arm-gnueabihf" "0.1.11"
+    "@napi-rs/simple-git-linux-arm64-gnu" "0.1.11"
+    "@napi-rs/simple-git-linux-arm64-musl" "0.1.11"
+    "@napi-rs/simple-git-linux-x64-gnu" "0.1.11"
+    "@napi-rs/simple-git-linux-x64-musl" "0.1.11"
+    "@napi-rs/simple-git-win32-arm64-msvc" "0.1.11"
+    "@napi-rs/simple-git-win32-x64-msvc" "0.1.11"
 
 "@next/env@13.5.6":
   version "13.5.6"
@@ -390,9 +390,9 @@ busboy@1.6.0:
     streamsearch "^1.1.0"
 
 caniuse-lite@^1.0.30001406:
-  version "1.0.30001579"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001579.tgz#45c065216110f46d6274311a4b3fcf6278e0852a"
-  integrity sha512-u5AUVkixruKHJjw/pj9wISlcMpgFWzSrczLZbrqBSxukQixmg0SJ5sZTpvaFvxU0HoQKd4yoyAogyrAz9pzJnA==
+  version "1.0.30001581"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001581.tgz#0dfd4db9e94edbdca67d57348ebc070dece279f4"
+  integrity sha512-whlTkwhqV2tUmP3oYhtNfaWGYHDdS3JYFQBKXxcUR9qqPWsRhFHhoISO2Xnl/g0xyKzht9mI1LZpiNWfMzHixQ==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -822,11 +822,11 @@ decode-named-character-reference@^1.0.0:
     character-entities "^2.0.0"
 
 delaunator@5:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/delaunator/-/delaunator-5.0.0.tgz#60f052b28bd91c9b4566850ebf7756efe821d81b"
-  integrity sha512-AyLvtyJdbv/U1GkiS6gUUzclRoAY4Gs75qkMygJJhU75LW4DNuSF2RMzpxs9jw9Oz1BobHjTdkG3zdP55VxAqw==
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/delaunator/-/delaunator-5.0.1.tgz#39032b08053923e924d6094fe2cde1a99cc51278"
+  integrity sha512-8nvh+XBe96aCESrGOqMp/84b13H9cdKbG5P2ejQCh4d4sK9RL4371qou9drQjMhvnPmhWl5hnmqbEE0fXr9Xnw==
   dependencies:
-    robust-predicates "^3.0.0"
+    robust-predicates "^3.0.2"
 
 dequal@^2.0.0:
   version "2.0.3"
@@ -1252,9 +1252,9 @@ js-yaml@^4.0.0:
     argparse "^2.0.1"
 
 jsonc-parser@^3.2.0:
-  version "3.2.0"
-  resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-3.2.0.tgz#31ff3f4c2b9793f89c67212627c51c6394f88e76"
-  integrity sha512-gfFQZrcTc8CnKXp6Y4/CBT3fTc0OVuDofpre4aEeEpSBPV5X5v4+Vmx+8snU7RLPrNHPKSgLxGo9YuQzz20o+w==
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/jsonc-parser/-/jsonc-parser-3.2.1.tgz#031904571ccf929d7670ee8c547545081cb37f1a"
+  integrity sha512-AilxAyFOAcK5wA1+LeaySVBrHsGQvUFCDWXKpZjzaL0PqW+xfBOttn8GNtWKFWqneyMZj41MWF9Kl6iPWLwgOA==
 
 katex@^0.16.0, katex@^0.16.9:
   version "0.16.9"
@@ -1822,9 +1822,9 @@ micromark-util-character@^1.0.0:
     micromark-util-types "^1.0.0"
 
 micromark-util-character@^2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/micromark-util-character/-/micromark-util-character-2.0.1.tgz#52b824c2e2633b6fb33399d2ec78ee2a90d6b298"
-  integrity sha512-3wgnrmEAJ4T+mGXAUfMvMAbxU9RDG43XmGce4j6CwPtVxB3vfwXSZ6KhFwDzZ3mZHhmPimMAXg71veiBGzeAZw==
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/micromark-util-character/-/micromark-util-character-2.1.0.tgz#31320ace16b4644316f6bf057531689c71e2aee1"
+  integrity sha512-KvOVV+X1yLBfs9dCBSopq/+G1PcgT3lAK07mC4BzXi5E7ahzMAF8oIupDDJ6mievI6F+lAATkbQQlQixJfT3aQ==
   dependencies:
     micromark-util-symbol "^2.0.0"
     micromark-util-types "^2.0.0"
@@ -2172,9 +2172,9 @@ postcss@8.4.31:
     source-map-js "^1.0.2"
 
 property-information@^6.0.0:
-  version "6.4.0"
-  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.4.0.tgz#6bc4c618b0c2d68b3bb8b552cbb97f8e300a0f82"
-  integrity sha512-9t5qARVofg2xQqKtytzt+lZ4d1Qvj8t5B8fEwXK6qOfgRLgH/b13QlgEyDh033NOS31nXeFbYv7CLUDG1CeifQ==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/property-information/-/property-information-6.4.1.tgz#de8b79a7415fd2107dfbe65758bb2cc9dfcf60ac"
+  integrity sha512-OHYtXfu5aI2sS2LWFSN5rgJjrQ4pCy8i1jubJLe2QvMF8JJ++HXTUIVWFLfXJoaOfvYYjk2SN8J2wFUWIGXT4w==
 
 pseudomap@^1.0.2:
   version "1.0.2"
@@ -2289,7 +2289,7 @@ remark-rehype@^10.0.0:
     mdast-util-to-hast "^12.1.0"
     unified "^10.0.0"
 
-robust-predicates@^3.0.0:
+robust-predicates@^3.0.2:
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/robust-predicates/-/robust-predicates-3.0.2.tgz#d5b28528c4824d20fc48df1928d41d9efa1ad771"
   integrity sha512-IXgzBWvWQwE6PrDI05OvmXUIruQTcoMDzRsOd5CDvHCVLcLHMTSYvOK5Cm46kWqlV3yAbuSpBZdJ5oP5OUoStg==
