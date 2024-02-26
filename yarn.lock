@@ -176,16 +176,16 @@
     tslib "^2.4.0"
 
 "@tanstack/react-virtual@^3.0.0-beta.60":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.1.1.tgz#0f239bd0323344ebf045b6579d98018123e49a0e"
-  integrity sha512-9tW9xwEW7exSa/8bxu29IPCcB5c9Xlq+whETixIIgYZYKuUY4ZOr000q3oLpL4bkOkolQbB4WXM0MoQGgJXqDg==
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.1.2.tgz#eb62b73cc82e34860604cd3d682a17db590f3c45"
+  integrity sha512-qibmxtctgOZo2I+3Rw5GR9kXgaa15U5r3/idDY1ItUKW15UK7GhCfyIfE6qYuJ1fxQF6dJDsD8SbpPyuJgpxuA==
   dependencies:
-    "@tanstack/virtual-core" "3.1.1"
+    "@tanstack/virtual-core" "3.1.2"
 
-"@tanstack/virtual-core@3.1.1":
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.1.1.tgz#5d8d517fa60ec073a83a7a01e3041ad2d75657e8"
-  integrity sha512-I5lerX+RWxLM+zw35gwwQIoLvtkOm0ecuQUlEjNey+Ga6TnR66WKLBnSHre59onugxhpDLT2nofRYzxf+izDFQ==
+"@tanstack/virtual-core@3.1.2":
+  version "3.1.2"
+  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.1.2.tgz#ca76f28f826fbd3310f88c3cd355d9c4aba80abb"
+  integrity sha512-DATZJs8iejkIUqXZe6ruDAnjFo78BKnIIgqQZrc7CmEFqfLEN/TPD91n4hRfo6hpRB6xC00bwKxv7vdjFNEmOg==
 
 "@theguild/remark-mermaid@^0.0.5":
   version "0.0.5"
@@ -235,9 +235,9 @@
     "@types/ms" "*"
 
 "@types/estree-jsx@^1.0.0":
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/@types/estree-jsx/-/estree-jsx-1.0.4.tgz#8d34b43444887dde8a73af530f772f23e1d3287c"
-  integrity sha512-5idy3hvI9lAMqsyilBM+N+boaCf1MgoefbDxN6KEO5aK17TOHwFAYT9sjxzeKAiIWRUBgLxmZ9mPcnzZXtTcRQ==
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/@types/estree-jsx/-/estree-jsx-1.0.5.tgz#858a88ea20f34fe65111f005a689fa1ebf70dc18"
+  integrity sha512-52CcUVNFyfb1A2ALocQw/Dd1BQFNmSdkuC3BkZ6iqhdMfQz7JWOFRuJFloOzjk+6WijU56m9oKXFAXc7o3Towg==
   dependencies:
     "@types/estree" "*"
 
@@ -300,9 +300,9 @@
   integrity sha512-ga8y9v9uyeiLdpKddhxYQkxNDrfvuPrlFb0N1qnZZByvcElJaXthF1UhvCh9TLWJBEHeNtdnbysW7Y6Uq8CVng==
 
 "@types/react@>=16":
-  version "18.2.56"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.56.tgz#2d3e9021a0b6eb5bfc227761cc61b1c6dc6e0cd8"
-  integrity sha512-NpwHDMkS/EFZF2dONFQHgkPRwhvgq/OAvIaGQzxGSBmaeR++kTg6njr15Vatz0/2VcCEwJQFi6Jf4Q0qBu0rLA==
+  version "18.2.58"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-18.2.58.tgz#22082d12898d11806f4a1aefb5583116a047493d"
+  integrity sha512-TaGvMNhxvG2Q0K0aYxiKfNDS5m5ZsoIBBbtfUorxdH4NGSXIlYvZxLJI+9Dd3KjeB3780bciLyAb7ylO8pLhPw==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -390,9 +390,9 @@ busboy@1.6.0:
     streamsearch "^1.1.0"
 
 caniuse-lite@^1.0.30001406:
-  version "1.0.30001588"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001588.tgz#07f16b65a7f95dba82377096923947fb25bce6e3"
-  integrity sha512-+hVY9jE44uKLkH0SrUTqxjxqNTOWHsbnQDIKjwkZ3lNTzUUVdBLBGXtj/q5Mp5u98r3droaZAewQuEDzjQdZlQ==
+  version "1.0.30001589"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001589.tgz#7ad6dba4c9bf6561aec8291976402339dc157dfb"
+  integrity sha512-vNQWS6kI+q6sBlHbh71IIeC+sRwK2N3EDySc/updIGhIee2x5z00J4c1242/5/d6EpEMdOnk/m+6tuk4/tcsqg==
 
 ccount@^2.0.0:
   version "2.0.1"
@@ -832,14 +832,14 @@ diff@^5.0.0:
   integrity sha512-uIFDxqpRZGZ6ThOk84hEfqWoHx2devRFvpTZcTHur85vImfaxUbTW9Ryh4CpCuDnToOP1CEtXKIgytHBPVff5A==
 
 dompurify@^3.0.5:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.0.8.tgz#e0021ab1b09184bc8af7e35c7dd9063f43a8a437"
-  integrity sha512-b7uwreMYL2eZhrSCRC4ahLTeZcPZxSmYfmcQGXGkXiZSNW1X85v+SDM5KsWcpivIiUBH47Ji7NtyUdpLeF5JZQ==
+  version "3.0.9"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-3.0.9.tgz#b3f362f24b99f53498c75d43ecbd784b0b3ad65e"
+  integrity sha512-uyb4NDIvQ3hRn6NiC+SIFaP4mJ/MdXlvtunaqK9Bn6dD3RuB/1S/gasEjDHD8eiaqdSael2vBv+hOs7Y+jhYOQ==
 
 elkjs@^0.9.0:
-  version "0.9.1"
-  resolved "https://registry.yarnpkg.com/elkjs/-/elkjs-0.9.1.tgz#fd1524b3f0bed72dc65ba107ae91bcf04b5582bd"
-  integrity sha512-JWKDyqAdltuUcyxaECtYG6H4sqysXSLeoXuGUBfRNESMTkj+w+qdb0jya8Z/WI0jVd03WQtCGhS6FOFtlhD5FQ==
+  version "0.9.2"
+  resolved "https://registry.yarnpkg.com/elkjs/-/elkjs-0.9.2.tgz#3d4ef6f17fde06a5d7eaa3063bb875e25e59e972"
+  integrity sha512-2Y/RaA1pdgSHpY0YG4TYuYCD2wh97CRvu22eLG3Kz0pgQ/6KbIFTxsTnDc4MH/6hFlg2L/9qXrDMG0nMjP63iw==
 
 entities@^4.4.0:
   version "4.5.0"
